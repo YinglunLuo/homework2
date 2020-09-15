@@ -24,8 +24,8 @@ img{
 
 div{
     display: block;
-    height: 150px;
-    padding-right: 25px;
+    min-height: 150px;
+    padding: 25px;
 }
 #red{
     background-color: #ff0000;
