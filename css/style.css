@@ -21,7 +21,6 @@ img{
     margin: 0 auto;
     width: 525px;
 }
-
 div{
     display: block;
     min-height: 150px;
@@ -33,23 +32,21 @@ div{
 }
 #blue{
     background-color: #0000ff;
-    text-align: left;
 }
 #yellow{
     background-color: #ffff00;
     text-align: right;
 }
-#yellow>h2,#yellow>p{
+#yellow h2,#yellow p{
     color: black;
 }
-#yellow>h2{
+#yellow h2{
     text-shadow: 5px 5px 2px #c7e2c7;
 }
 #green{
     background-color: #008000;
-    text-align: left;
 }
-footer>p{
+footer p{
     text-align: right;
     padding: 0px 10px 10px 0px;
 }
